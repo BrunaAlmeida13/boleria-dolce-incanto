@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6560a831-ae99-4fb4-a9da-3c1678f66c4b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/impl_padraobuilder/model/Bolo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/impl_padraobuilder/model/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/impl_padraobuilder/model/enums/CaldaEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/impl_padraobuilder/model/enums/FormaEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/impl_padraobuilder/model/enums/RecheioEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/impl_padraobuilder/model/enums/TipoBoloEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/impl_sempadrao/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/impl_sempadrao/model/Bolo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/impl_sempadrao/model/enums/CaldaEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/impl_sempadrao/model/enums/FormaEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/impl_sempadrao/model/enums/RecheioEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/impl_sempadrao/model/enums/TipoBoloEnum.java" afterDir="false" />
-    </list>
+    <list default="true" id="6560a831-ae99-4fb4-a9da-3c1678f66c4b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
